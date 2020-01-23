@@ -2,11 +2,10 @@
 body{
     background-color: orange;
 } 
-.div1 {
-    
-    display:block;
-    /* align-items: center; */
-    margin: auto;
+.div1 {  
+  display:block;
+
+  margin: auto;
   width: 34%;
   height: 60%;
   border: 10px solid #73AD21;
@@ -14,6 +13,7 @@ body{
   padding: 10px;
 
     text-indent: 30px;
+    text-align: center;
   }
 
   h1{
