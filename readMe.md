@@ -1,7 +1,7 @@
 # ReadMe
 # Dice Game 1 Player 
 
-### Roll the dice to begin the game --
+### Roll the dice to begin the game
 
 ### The dice appears on the first roll
 
